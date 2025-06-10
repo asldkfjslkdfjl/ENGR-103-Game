@@ -1,5 +1,6 @@
 # ENGR-103-Game
 Final project for ENGR 103. Memory game.
+Demo video link: https://youtu.be/YqsfdDnlKfk
 
 Game: This is a memory game. In it, you will be shown various sequences of lights, and then you will input them by tilting the circuit board and pressing a button.
 Rules: First, press either button to start the game. Now, the board will begin flashing one light red. This is the sequence (of length 1) that you need to remember. Press any button when you are ready to enter the sequence. To enter the sequence, tilt the board so that the desired light is red, then press a button to enter your guess. For the first sequence of length 1, you only need to do this once. If you enter the full sequence correctly, the board will flash the next sequence but with increased length. If you get to round 5 (sequence of length 5) and correctly input it, you win and you will go to the win screen. Press any button from there to return to the start screen. If at any point you enter an incorrect guess, you will go to the loss screen. Press any button from there to go to the start screen and restart the game.
